@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\RFID_VendingMachine\RFID_VendingMachine\bin\Release\RFID_VendingMachine.exe.config
+C:\Users\Administrator\source\repos\RFID_VendingMachine\RFID_VendingMachine\bin\Release\RFID_VendingMachine.exe
+C:\Users\Administrator\source\repos\RFID_VendingMachine\RFID_VendingMachine\bin\Release\RFID_VendingMachine.pdb
+C:\Users\Administrator\source\repos\RFID_VendingMachine\RFID_VendingMachine\bin\Release\MySql.Data.dll
+C:\Users\Administrator\source\repos\RFID_VendingMachine\RFID_VendingMachine\obj\Release\RFID_VendingMachine.MainForm.resources
+C:\Users\Administrator\source\repos\RFID_VendingMachine\RFID_VendingMachine\obj\Release\RFID_VendingMachine.SettingForm.resources
+C:\Users\Administrator\source\repos\RFID_VendingMachine\RFID_VendingMachine\obj\Release\RFID_VendingMachine.Properties.Resources.resources
+C:\Users\Administrator\source\repos\RFID_VendingMachine\RFID_VendingMachine\obj\Release\RFID_VendingMachine.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\RFID_VendingMachine\RFID_VendingMachine\obj\Release\RFID_VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RFID_VendingMachine\RFID_VendingMachine\obj\Release\RFID_VendingMachine.csproj.CopyComplete
+C:\Users\Administrator\source\repos\RFID_VendingMachine\RFID_VendingMachine\obj\Release\RFID_VendingMachine.exe
+C:\Users\Administrator\source\repos\RFID_VendingMachine\RFID_VendingMachine\obj\Release\RFID_VendingMachine.pdb
+C:\Users\Administrator\source\repos\RFID_VendingMachine\RFID_VendingMachine\obj\Release\RFID_VendingMachine.csprojAssemblyReference.cache

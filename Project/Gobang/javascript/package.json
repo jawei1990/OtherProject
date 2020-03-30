@@ -1,0 +1,14 @@
+{
+    "version": "3.0.0",
+    "description": "Blippar JS test application",
+    "main": "main.js",
+    "blipp" : {
+        "title": "GoBang Game",
+        "shortTitle": "GoBang",
+        "icon": "GoBang_icon.jpg"
+    },
+    "dependencies": {
+        "blippar": "1.1.0"
+    }
+}
+
