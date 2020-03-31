@@ -12,4 +12,4 @@ So that it could show you the money in the RFID card is enough to buy things or 
 ![image](https://github.com/jawei1990/OtherProject/blob/master/Project/RFID%20Vending%20Machine/Image/screen.PNG)
 
 # DEMO VIDEO
-[VIDEO LINK IS HERE](https://youtu.be/Yhp6CQ-dzUQ)
+[VIDEO LINK IS HERE,AND THE BACKGROUND MAY BE TOO NOSILY!!!](https://youtu.be/Yhp6CQ-dzUQ)
