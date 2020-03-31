@@ -19,5 +19,8 @@ Picture Design: Online Photo Editor
 # Some screen shots
 ![image](https://github.com/jawei1990/OtherProject/blob/master/Project/Gobang/Image/GameSatrt.PNG)
 
+# Video Demo
+[Video is here](https://youtu.be/b9jtOt7CVUQ)
+
 # Reference 
 Blipp AR devlopment Tic-Tac-Toe sample.
